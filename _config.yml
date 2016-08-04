@@ -1,0 +1,14 @@
+layout_spectrum: 0.8926065617706627
+typography_spectrum: 0.6399832416791469
+color:
+  brandStrength: 0.8843258814886212
+  lightness: 0.5219235687982291
+  saturation: 0.30981453065760434
+  rhythmicContrast: 0.09817943908274174
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Meraki
